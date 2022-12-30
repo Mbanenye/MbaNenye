@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MbaNenye
 - 👀 I’m interested in Front End Engineering and Technical Writing 
 - 🌱 I’m currently learning Reactjs and Vuejs 
-- 💞️ I’m looking to collaborate on internships and projects 
+- 💞️ I’m looking to collaborate on building cool projects and writing articles/documentaions. 
 - 📫 How to reach me email:mbachinenye75@gmail.com 
 Twitter: @Enyesco
 
