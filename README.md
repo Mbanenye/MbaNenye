@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Reactjs and Vuejs 
 - 💞️ I’m looking to collaborate on building cool projects and writing articles/documentaions. 
 - 📫 How to reach me email:mbachinenye75@gmail.com 
-Twitter: @YosoNenye
+Twitter: @YosoyNenye
 
 <!---
 MbaNenye/MbaNenye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
