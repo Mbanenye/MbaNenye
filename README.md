@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MbaNenye
-- 👀 I’m interested in Front End Engineering and Technical Writing 
-- 🌱 I’m currently learning Reactjs and Vuejs 
-- 💞️ I’m looking to collaborate on building cool projects and writing articles/documentaions. 
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python for Data Analysis
+- 💞️ I’m looking to collaborate on finding answers to problems with data. 
 - 📫 How to reach me email:mbachinenye75@gmail.com 
-Twitter: @YosoyNenye
+Twitter: @NotNowNenye
 
 <!---
 MbaNenye/MbaNenye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
